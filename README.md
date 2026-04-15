@@ -1,8 +1,8 @@
 <body style="background-color: black; color: white;">
 </body>
-<h1 style="text-align: center;">el espacio</h1>
+<h3 style="text-align: center;">Marte</h3>
 <body bgcolor="black">
-<p>es inospito y frio. Pero tambien, es hermoso.</p>
+<p>el planeta rojo</p>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
