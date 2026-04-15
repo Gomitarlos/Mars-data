@@ -1,6 +1,6 @@
 <body style="background-color: black; color: white;">
 </body>
-<h3 style="text-align: center;">Marte</h3>
+<h1 style="text-align: center;">Marte</h1>
 <body bgcolor="black">
 <p>el planeta rojo</p>
 <html lang="es">
