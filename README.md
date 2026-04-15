@@ -3,8 +3,7 @@
 <h1 style="text-align: center;">el espacio</h1>
 <hr>
 <body bgcolor="black">
-<h2>es inospito y frio</h2>
-<p>Pero tambien, es hermoso.</p>
+<p>es inospito y frio. Pero tambien, es hermoso.</p>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
