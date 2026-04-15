@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-
 <h1 style="text-align: center;">el espacio</h1>
 <hr>
 <body bgcolor="black">
 <h2>es inospito y frio</h2>
 <p>Pero tambien, es hermoso.</p>
- <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
