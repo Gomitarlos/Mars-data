@@ -1,4 +1,4 @@
-<body style="background-color: red; color: white;">
+<body style="background-color: darkred; color: black;">
 </body>
 <h1 style="text-align: center;">el espacio</h1>
 <body bgcolor="black">
