@@ -35,6 +35,8 @@
 Sus nombres le fueron puestos en honor a los dos personajes de la mitología griega que acompañaban a Ares (Marte para la mitología romana).
 
 Desde la superficie de Marte, Deimos, el más lejano y pequeño, sale por el Este como la Luna. Sin embargo, Fobos, más grande y cercano, se mueve alrededor del planeta más rápidamente de lo que el mismo planeta rota. Por este motivo aparece en el occidente, se mueve comparativamente, en forma rápida a través del cielo (en 4 horas 15 minutos o menos) y se pone por el Este, aproximadamente dos veces por cada día marciano (cada 11 horas y 6 minutos).</p>
+<hr>
+<p>referencias tomadas de: <a href="https://es.wikipedia.org/wiki/Marte_(planeta)">Marte en Wikipedia</a></p>
 
 
  
