@@ -35,6 +35,17 @@ Sus nombres le fueron puestos en honor a los dos personajes de la mitología gri
 
 Desde la superficie de Marte, Deimos, el más lejano y pequeño, sale por el Este como la Luna. Sin embargo, Fobos, más grande y cercano, se mueve alrededor del planeta más rápidamente de lo que el mismo planeta rota. Por este motivo aparece en el occidente, se mueve comparativamente, en forma rápida a través del cielo (en 4 horas 15 minutos o menos) y se pone por el Este, aproximadamente dos veces por cada día marciano (cada 11 horas y 6 minutos).</p>
 <hr>
+<body>
+    <div class="container">
+        <h1>Marte en Movimiento</h1>
+        <video autoplay muted loop>
+            <source src="marsmovie_anderson_big%20(1).gif" type="video/mp4">
+        </video>
+        <img src="marsmovie_anderson_big%20(1).gif" alt="Video de Marte">
+    </div>
+<p>rte rota sobre su eje en aproximadamente 24 horas, 37 minutos y 22 segundos, lo que define un día marciano o «sol». Este periodo es muy similar al de la Tierra, lo que significa que los días en Marte son solo un poco más largos. La inclinacion de su eje es también parecida a la terrestre</p>
+</body>
+</html>
 <p>referencias tomadas de: <a href="https://es.wikipedia.org/wiki/Marte_(planeta)">Marte en Wikipedia</a></p>
 </head>
 </html>
