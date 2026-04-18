@@ -48,8 +48,6 @@ Desde la superficie de Marte, Deimos, el más lejano y pequeño, sale por el Est
 </html>
 <p>referencias tomadas de: <a href="https://es.wikipedia.org/wiki/Marte_(planeta)">Marte en Wikipedia</a></p>
 </head>
-</html>
-
 
 
 
