@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <body style="background-color: black; color: white;">
 </body>
 <h1 style="text-align: center;">Marte</h1>
