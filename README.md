@@ -10,7 +10,7 @@
 <body>
     <div class="container">
         <h1>OSIRIS - Imagen de Marte en Color Real</h1>
-        <img src="OSIRIS_Mars_true_color.jpg" alt="Imagen OSIRIS de Marte"style="width: 50%; height: auto;">
+        <img src="OSIRIS_Mars_true_color.jpg" alt="Imagen OSIRIS de Marte"style=">
         <div class="info">
             <p><strong>Instrumento:</strong> OSIRIS (Optical, Spectroscopic and Infrared Remote Imaging System)</p>
             <p><strong>Satélite:</strong> ROSETTA (ESA)</p>
