@@ -43,7 +43,7 @@ Desde la superficie de Marte, Deimos, el más lejano y pequeño, sale por el Est
         </video>
         <img src="marsmovie_anderson_big%20(1).gif" alt="Video de Marte">
     </div>
-<p>rte rota sobre su eje en aproximadamente 24 horas, 37 minutos y 22 segundos, lo que define un día marciano o «sol». Este periodo es muy similar al de la Tierra, lo que significa que los días en Marte son solo un poco más largos. La inclinacion de su eje es también parecida a la terrestre</p>
+<p>Marte rota sobre su eje en aproximadamente 24 horas, 37 minutos y 22 segundos, lo que define un día marciano o «sol». Este periodo es muy similar al de la Tierra, lo que significa que los días en Marte son solo un poco más largos. La inclinacion de su eje es también parecida a la terrestre</p>
 </body>
 <p>referencias tomadas de: <a href="https://es.wikipedia.org/wiki/Marte_(planeta)">Marte en Wikipedia</a></p>
 </head>
