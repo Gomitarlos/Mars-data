@@ -1,4 +1,4 @@
-<body style="background-color: black; color: white;">
+<body style="background-color: darkblue; color: white;">
 </body>
 <h1 style="text-align: center;">Marte</h1>
 <body bgcolor="black">
