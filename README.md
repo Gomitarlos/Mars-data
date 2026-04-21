@@ -1,6 +1,7 @@
 <body style="background-color: black; color: white;">
 </body>
 <h1 style="text-align: center;">Marte</h1>
+<p>autor:Carlos Santiago Maestre Royo</p>
 <body bgcolor="black">
 <p>el planeta rojo</p>
 <html lang="es">
