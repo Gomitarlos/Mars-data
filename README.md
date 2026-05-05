@@ -46,8 +46,7 @@ Desde la superficie de Marte, Deimos, el más lejano y pequeño, sale por el Est
     </div>
 <p>Marte rota sobre su eje en aproximadamente 24 horas, 37 minutos y 22 segundos, lo que define un día marciano o «sol». Este periodo es muy similar al de la Tierra, lo que significa que los días en Marte son solo un poco más largos. La inclinacion de su eje es también parecida a la terrestre</p>
 <details>
-    <sumary>Caracteristicas del monte olimpo</sumary>
-    es el mas alto de todo el siostema solar
+El Monte Olimpo (Olympus Mons) en Marte es el volcán y la montaña más alta conocida del sistema solar. Con una altura de casi \(22\) km (unas tres veces más que el Everest) y un diámetro de unos \(600\) km, este colosal volcán en escudo se ubica en la región de Tharsis, formándose por la acumulación de lava durante millones de años
 </details>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -75,6 +74,8 @@ Desde la superficie de Marte, Deimos, el más lejano y pequeño, sale por el Est
             </div>
         </div>
     </div>
+    <p>referencias tomadas de:</p>
+    <a ref="https://es.wikipedia.org/wiki/Marte_(planeta)"</a>
 </body>
 
  
