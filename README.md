@@ -45,8 +45,32 @@ Desde la superficie de Marte, Deimos, el más lejano y pequeño, sale por el Est
         <img src="marsmovie_anderson_big%20(1).gif" alt="Video de Marte">
     </div>
 <p>Marte rota sobre su eje en aproximadamente 24 horas, 37 minutos y 22 segundos, lo que define un día marciano o «sol». Este periodo es muy similar al de la Tierra, lo que significa que los días en Marte son solo un poco más largos. La inclinacion de su eje es también parecida a la terrestre</p>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<body>
+    <div class="container">
+        <h1>Lunas de Marte</h1>
+         <div class="button-container">
+            <button onclick="toggleCharacteristics()">
+                Características de las Lunas de Marte
+            </button>
+        </div>
+        <div class="characteristics" id="characteristics">
+            <div class="char-item">
+                <h3><span class="char-number">1</span>Asteroides Capturados</h3>
+                <p>Se cree que son asteroides capturados. Fobos y Deimos probablemente fueron atrapados por la gravedad de Marte hace millones de años.</p>
+            </div>
+<div class="char-item">
+                <h3><span class="char-number">2</span>Muy Oscuros</h3>
+                <p>Son muy oscuros, con una superficie de color grisáceo oscuro. Esta oscuridad se debe a su composición similar a la de los asteroides carbonáceos del sistema solar.</p>
+            </div>
 
-
-
+<div class="char-item">
+                <h3><span class="char-number">3</span>Cuerpos Irregulares</h3>
+                <p>Son cuerpos irregulares que miden unos pocos kilómetros de diámetro. Fobos tiene aproximadamente 22 km de largo, mientras que Deimos es mucho más pequeño, con unos 13 km.</p>
+            </div>
+        </div>
+    </div>
+</body>
 
  
