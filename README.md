@@ -45,7 +45,11 @@ Desde la superficie de Marte, Deimos, el más lejano y pequeño, sale por el Est
         <img src="marsmovie_anderson_big%20(1).gif" alt="Video de Marte">
     </div>
 <p>Marte rota sobre su eje en aproximadamente 24 horas, 37 minutos y 22 segundos, lo que define un día marciano o «sol». Este periodo es muy similar al de la Tierra, lo que significa que los días en Marte son solo un poco más largos. La inclinacion de su eje es también parecida a la terrestre</p>
-<meta charset="UTF-8">
+<details>
+    <sumary>Caracteristicas del monte olimpo</sumary>
+    es el mas alto de todo el siostema solar
+</details>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
     <div class="container">
