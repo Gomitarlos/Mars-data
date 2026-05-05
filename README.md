@@ -75,7 +75,14 @@ El Monte Olimpo (Olympus Mons) en Marte es el volcán y la montaña más alta co
         </div>
     </div>
     <p>referencias tomadas de:</p>
-    <a ref="https://es.wikipedia.org/wiki/Marte_(planeta)"</a>
+
+</a>
+<details>
+  <summary>Ver link de referencia</summary>
+  
+  <a href="https://es.wikipedia.org/wiki/Marte_(planeta)">Haz clic aquí para ir a la página</a>
+  
+</details>
 </body>
 
  
